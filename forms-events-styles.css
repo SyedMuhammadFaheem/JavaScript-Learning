@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background-color:lightblue;
+}
+
+
+#login-form{
+    background-color:white;
+    width:550px;
+    margin:15px auto ;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#username{
+    margin:15px;
+    padding:9px;
+    display: inline-block;
+    width:500px;
+    outline:none;
+}
+
+#password{
+    margin:15px;
+    padding:9px;
+    display: inline-block;
+    width:500px;
+    outline:none;
+}
+
+
+#btn-submit{
+    margin:15px;
+    padding:2px;
+    display: inline-block;
+    width:500px;
+    font-size:18px;
+    font-weight: 550;
+}
+
